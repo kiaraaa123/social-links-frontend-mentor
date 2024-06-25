@@ -81,11 +81,12 @@ footer a:hover {
 /* 5. Component Styles
 ======================================== */
 .card {
+    padding-top: 1px;
     background-color: var(--dkgrey);
     border-radius: 12px;
     width: 384px;
     height: 611px;
-    margin: 0 auto;
+    margin: auto;
     margin-top: 174.5px;
 }
 
