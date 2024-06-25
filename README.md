@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [View on Frontend Mentor](https://your-solution-url.com)
-- Live Site URL: [View via GitHub Pages](https://your-live-site-url.com)
+- Live Site URL: [View via GitHub Pages]([https://your-live-site-url.com](https://kiaraaa123.github.io/social-links-frontend-mentor/))
 
 
 ## My process
